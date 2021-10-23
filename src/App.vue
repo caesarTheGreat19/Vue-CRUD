@@ -5,6 +5,9 @@
                 <router-view></router-view>
             </transition>
         </div>
+        <div>
+            <h1>Hello</h1>
+        </div>
     </div>
 </template>
 
